@@ -1,5 +1,0 @@
-total 0
-drwxr-xr-x  4 pbuckley  928201559  128  2 Mar 10:34 .
-drwxr-xr-x  5 pbuckley  928201559  160  2 Mar 10:30 ..
--rw-r--r--  1 pbuckley  928201559    0  2 Mar 10:34 level2.txt
-drwxr-xr-x  3 pbuckley  928201559   96  2 Mar 10:32 level3
