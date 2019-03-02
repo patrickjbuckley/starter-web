@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x  3 pbuckley  928201559  96  2 Mar 10:04 .
+drwxr-xr-x  3 pbuckley  928201559  96  2 Mar 10:03 ..
+-rw-r--r--  1 pbuckley  928201559   0  2 Mar 10:04 3.txt
